@@ -1,2 +1,3 @@
 # Chainshot-lessons
-Serie of exercises made on Chainshot Bootcamp 2022
+
+Serie of exercises made during Chainshot Bootcamp 2022
