@@ -1,0 +1,27 @@
+{
+  "name": "chainshot-json-activity",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ethereumjs/common": "^2.6.1",
+    "@ethereumjs/tx": "^3.5.0",
+    "axios": "^0.25.0",
+    "dotenv": "^16.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marciob/Chainshot-ethereum-json-rpc-activity.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marciob/Chainshot-ethereum-json-rpc-activity/issues"
+  },
+  "homepage": "https://github.com/marciob/Chainshot-ethereum-json-rpc-activity#readme",
+  "description": ""
+}
